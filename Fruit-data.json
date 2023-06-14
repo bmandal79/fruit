@@ -1,0 +1,42 @@
+{
+    "inventory": {
+      "Apple": {
+        "category": "fruit",
+        "quantity": 38,
+        "price": 2
+      },
+      "Orange": {
+        "category": "fruit",
+        "quantity": 34,
+        "price": 1
+      },
+      "Banana": {
+        "category": "fruit",
+        "quantity": 90,
+        "price": 1
+      },
+      "Grapes": {
+        "category": "fruit",
+        "quantity": 31,
+        "price": 3
+      },
+      "Mango": {
+        "category": "fruit",
+        "quantity": 36,
+        "price": 2
+      },
+      "Peaches": {
+        "category": "fruit",
+        "quantity": 0,
+        "price": 3
+      },
+      "Avacado": {
+        "category": "fruit",
+        "quantity": 0,
+        "price": 8
+      }
+    }
+  }
+  
+  
+  
